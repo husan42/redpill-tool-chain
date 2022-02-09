@@ -16,7 +16,6 @@
   },
   "ramdisk_copy": {},
   "profile": {
-    "PATH":"/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin:/opt/bin:/opt/sbin",
-    u
+    "PATH":"/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin:/opt/bin:/opt/sbin"
   }
 }
