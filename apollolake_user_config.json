@@ -2,10 +2,10 @@
   "extra_cmdline": {
     "pid": "0x5106",
     "vid": "0x174C",
-    "sn": "1860PDN420209",
-    "mac1": "001132940F8F",
-    "mac2": "001132940F90",
-    "mac3": "001132940F91"
+    "sn": "1860PDN42020",
+    "mac1": "001132940F8",
+    "mac2": "001132940F9",
+    "mac3": "001132940F9"
   },
   "synoinfo": {
     "maxdisks": "24",
@@ -14,5 +14,9 @@
     "esataportcfg": "0x0",
     "internalportcfg": "0xffff"
   },
-  "ramdisk_copy": {}
+  "ramdisk_copy": {},
+  "profile": {
+    "PATH":"/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin:/opt/bin:/opt/sbin",
+    u
+  }
 }
