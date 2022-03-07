@@ -2,20 +2,21 @@
   "extra_cmdline": {
     "pid": "0x5106",
     "vid": "0x174C",
-    "sn": "1860PDN42020",
-    "mac1": "001132940F8",
-    "mac2": "001132940F9",
-    "mac3": "001132940F9"
+    "sn": "1860PDN420210",
+    "mac1": "001132940F81",
+    "mac2": "001132940F82",
+    "mac3": "001132940F83"
   },
   "synoinfo": {
     "maxdisks": "24",
     "maxlanport": "10",
     "usbportcfg": "0x30000",
     "esataportcfg": "0x0",
-    "internalportcfg": "0xffff"
+    "internalportcfg": "0xffff",
+    "mem_max_mb": "32768"
   },
   "ramdisk_copy": {},
   "profile": {
-    "PATH":"/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin:/opt/bin:/opt/sbin"
+    "PATH":"/usr/local/python3/bin:/opt/bin:/opt/sbin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin:/opt/bin:/opt/sbin"
   }
 }
