@@ -95,7 +95,6 @@ jobs:
           
       - name: 添加扩展驱动CUSTCOM
         run: |
-          ./redpill_tool_chain.sh add https://github.com/pocopico/rp-ext/blob/main/e1000e/rpext-index.json
           ./redpill_tool_chain.sh add https://github.com/pocopico/rp-ext/blob/main/vmxnet3/rpext-index.json
           ./redpill_tool_chain.sh add https://github.com/pocopico/rp-ext/blob/main/megaraid_sas/rpext-index.json
           ./redpill_tool_chain.sh add https://github.com/pocopico/rp-ext/blob/main/atlantic/rpext-index.json
