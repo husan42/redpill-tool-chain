@@ -8,8 +8,8 @@
     "mac3": "001132940F83"
   },
   "synoinfo": {
-    "maxdisks": "24",
-    "maxlanport": "10",
+    "maxdisks": "36",
+    "maxlanport": "20",
     "usbportcfg": "0x30000",
     "esataportcfg": "0x0",
     "internalportcfg": "0xffff",
