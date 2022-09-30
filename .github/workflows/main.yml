@@ -93,9 +93,9 @@ jobs:
           echo '等待整理兼容性扩展~😀'
           ./redpill_tool_chain.sh add https://github.com/tossp/redpill-tool-chain/raw/master/extensions/redpill-boot-wait.json
           
-      - name: 添加扩展驱动CUSTCOM
+      - name: 添加扩展驱动CUSTOM
         run: |
-          ./redpill_tool_chain.sh add https://github.com/pocopico/rp-ext/blob/main/atlantic/rpext-index.json
+          echo "CUSTOM"
 
       - name: 添加 Misc shell
         run: |
